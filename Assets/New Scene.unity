@@ -20,11 +20,11 @@ RenderSettings:
   m_FogDensity: 0.01
   m_LinearFogStart: 0
   m_LinearFogEnd: 300
-  m_AmbientSkyColor: {r: 0.212, g: 0.227, b: 0.259, a: 1}
-  m_AmbientEquatorColor: {r: 0.114, g: 0.125, b: 0.133, a: 1}
-  m_AmbientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
-  m_AmbientIntensity: 1.83
-  m_AmbientMode: 0
+  m_AmbientSkyColor: {r: 0.9433962, g: 0.9433962, b: 0.9433962, a: 1}
+  m_AmbientEquatorColor: {r: 0.8962264, g: 0.8962264, b: 0.8962264, a: 1}
+  m_AmbientGroundColor: {r: 0.2264151, g: 0.066375, b: 0.035030246, a: 1}
+  m_AmbientIntensity: 1.87
+  m_AmbientMode: 1
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
   m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
   m_HaloStrength: 0.566
@@ -473,13 +473,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 711266682}
-  m_LocalRotation: {x: 0.5, y: 0.5, z: -0.5, w: 0.5}
-  m_LocalPosition: {x: 0, y: 6.71, z: 0}
+  m_LocalRotation: {x: -0.04650108, y: 0.6834745, z: -0.7124715, w: -0.15193644}
+  m_LocalPosition: {x: 0, y: 6.71, z: -12.98}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 90, y: 90, z: 0}
+  m_LocalEulerAnglesHint: {x: 81.131, y: 293.46802, z: 97.287}
 --- !u!1001 &845642341
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -849,7 +849,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7482383892329811123, guid: 3ad05566c3ba0124aa9965a6810cf59e, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.07686186
+      value: 0.118
       objectReference: {fileID: 0}
     - target: {fileID: 7482383892329811123, guid: 3ad05566c3ba0124aa9965a6810cf59e, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1628,7 +1628,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1884087286508924706, guid: 38cfd18d014b8cf4b8c96a4ba9a28317, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.05
+      value: 0.021
       objectReference: {fileID: 0}
     - target: {fileID: 1884087286508924706, guid: 38cfd18d014b8cf4b8c96a4ba9a28317, type: 3}
       propertyPath: m_LocalPosition.z
